@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+#main {
+
+}
+
+.head {
+    height: 100px;
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+.head-link {
+    height: 50px;
+    width: 100%;
+    background-color: darkred;
+}
+
+.left {
+    height: 400px;
+    width: 20%;
+    background-color: navajowhite;
+    float: left;
+
+}
+
+.content {
+    height: 600px;
+    width: 60%;
+    background-color: papayawhip;
+    margin: auto;
+}
+
+.right {
+    height: 400px;
+    width: 20%;
+    background-color: navajowhite;
+    float: right;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+    background-color: darkgrey;
+}
